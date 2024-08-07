@@ -1,4 +1,10 @@
 # HoroscopoKinMaya
 
-Horoscopo Kin Maya desarrollado por Carlos Bello, Jorge Casco, Walter Benitez, Guido Gavilan y Francisco Garcia. 
-¡Descubre tu proposito de vida, tu signo galactivo y solar, tu luz y oscuridad!
+Horoscopo Kin Maya desarrollado en `C#` por alumnos de Computación (**5°8° 2024**):
+- Carlos Bello
+- Jorge Casco
+- Walter Benitez
+- Guido Gavilan
+- Francisco Garcia.
+  
+¡Descubre tu proposito de vida, tu signo galactico y solar, tu luz :sunny: y oscuridad :new_moon:!
