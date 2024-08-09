@@ -1,4 +1,4 @@
-﻿class Datos
+class Datos
 {
     public string[] nombres;
     public int[] valores;
@@ -87,7 +87,8 @@ class Descripcion
 {
     public static string[] descripcion = new string[]
     {
- @"(El que nutre). Tienen un gran poderío físico. Están vinculados con el costado más material del universo.",
+ @"(El que nutre). Tienen un gran poderío físico. Están vinculados 
+con el costado más material del universo.",
  @"(El comunicador). Buenos oradores y escritores, tienen 
 la gran virtud de comunicarse con todo tipo de gente,
  y explicar cualquier causa por compleja que fuera",
@@ -99,7 +100,8 @@ o con la frase más desafortunada a quienes lo rodean.
  Pero son atentos y precisos con sus semejantes.",
  @"(El Instintivo). Les dicen así porque viven en estado físico, 
 instinto y piel en su contexto. Tienen una 
- extraordinaria facilidad para percibir la salud o lo tóxico en quienes están frente a ellos.",
+ extraordinaria facilidad para percibir la salud o lo tóxico en quienes 
+están frente a ellos.",
  @"(El puente). Son personas que tienen una especial cualidad para leer 
 los momentos de crisis. Pese a los 
  golpes de los finales, saben enfocarse en las oportunidades del cambio.",
@@ -223,7 +225,7 @@ class ASCII
   :YPP?  !P5Y. ^PP!  7P5P^  !55~  7YJJ^
    .!57  ~PP7  ^PP~  !P55^  !5Y^  7?!^
      ..  ~Y57  ~PP~  !5Y5^  ~J?^  ..
-          ...  .^!:  :!~^.   .
+            ...  .^!:  :!~^.   .
 ",
 
 
@@ -249,7 +251,7 @@ P@@@@@@@@@@@@@@B.~@@&~ B#. 5@@@@@@@@@@&&#&?
    ?&@@@@@@@@@@@@@@@###@@@&&&##BBBBG5B7       
     :Y#@@@@@&@@@@&&&&&&&&####BBBBGGPJ7        
       .~J5PGG###&&&&&####BBPGGYJ7~:.          
-           ...::^~7!7777~^:.:.                
+            ...::^~7!7777~^:.:.                
          
 ",
 
@@ -276,7 +278,7 @@ JGPPPPPPPPPGGGPGP~ :PGG? ^GGPGGGPPPPPPPP5PJ.
   .7PBPGG5JJ??JYJ.       .Y?!!!!7JYYYY^       
     :?PG!       .                 ^J!.        
       .~^.     :7~.      :7^     .:.          
-         .     :^^.      .:.                                                                
+            .     :^^.      .:.                                                                
 ",
 
 
@@ -302,7 +304,7 @@ Y&###########B#########B###BB#B###BBBGGGGG?
   .JB#BB####&5 .G&#&J .P&&G.:GGBGGPPPY!       
     :JB#&####P .G##&J  P#BG:.YGPP5P57.        
       .~JY5GB5. 5#B#J  YBGP: JY?~::.          
-           ...  .^77~ .!~::  .                                                              
+                                                        ...  .^77~ .!~::  .                                                              
 ",
 
 
@@ -328,7 +330,7 @@ Y&###########B#########B###BB#B###BBBGGGGG?
   :~~~~~^^^^^:~!!7Y5555: :!J5P~ ~?YJ~:^       
    ^YPP55555555P5555557.: ^JJ?:.^??7:.        
     .^7JY555555555YJ?~:~JJ^.. :7^ .           
-        .:^^~~^^^:. .^~~^^:.  .                                                             
+                                                             .:^^~~^^^:. .^~~^^:.  .                                                             
 ",
 
 
@@ -354,7 +356,7 @@ P@@@@@@@@@@@@@@B?:^7YB7 ~&@@@@@@@@@@@&&&#&?
    ?&@@@@@@@@?  J@@@@@@@@@@#&&&##BBBBB7       
     :Y#@@@@@@?  J@@@@@&&&&&&###BBBGPY7        
       .~J5PB#J  Y@&#&&&###BGGGPY7~:.          
-           ...  :~?77??7~~:...                                                           
+            ...  :~?77??7~~:...                                                           
 ",
 
 
@@ -380,7 +382,7 @@ JGPPPPPPPPGGPYJ?777777YGPGYJYPGP?7PG57755P!
    7G7 ??  .P5  PGPPPPPPPPPPP5555YJYYY~       
     :7.:?JJYJ. 7GPPP5PPPP555YY5YYYJJ7~        
          .:. :JPP5PP555555YYYJ?7~:..          
-             ...:^!~~!!~^::...                
+                ...:^!~~!!~^::...                
                                                   
 ",
 
@@ -407,7 +409,7 @@ Y&#G57^.^!5#&B################B57^:^!?PGGB?
    7#&&BYJYG&####! J&?.5&##BBBBPY?7JG5!       
     :JB#&&&#######:~#^?&BBBGGGGGGGPJ7.        
       .~JY5GGGGGG#J ~:GBGGPPP5YJ!^:           
-           ......^!. :?7~^::..                                                                
+                                                                ......^!. :?7~^::..                                                                
 ",
 
 
@@ -433,7 +435,7 @@ Y&#G57^.^!5#&B################B57^:^!?PGGB?
    !5P55PJ  !P55555YY5555555555^  7YJJ~       
     :7??7. :YP5Y555555Y555YYYYY?. .~!^        
           !JYY5Y5555555YYYYJJJ?7^.            
-           ...:.:^!~~~~~^::...                                                             
+             ...:.:^!~~~~~^::...                                                             
 ",
 
 
@@ -460,9 +462,6 @@ G@@B!~J! !!!G@@@&@@@@&^.B@&#P?^!P@@@@@@&&&G:
     ^5&@@@@@@@@@@@@@@@@@&&&&&Y P#BGGY!        
       .!YPGB####&@&&&&&&&#BGBG::!^::          
            ....:~!?7???7~^:::.                
-                                                  
-
-
 ",
 
 @"                                             
@@ -534,7 +533,7 @@ PPPPPPG? .PP5  .GPPPPPPG. ~77.  5PP555:
   7GPPGP  :~~~  YGPPPPGJ  .::.  JJ~      
    ~YGPP. ^GGP  ?PPPPPP7  ^P5~  !~       
       :!Y. :GPY  ?P5555Y?  .??.           
-           ..   :^!~~^..                                                    
+                                        ..   :^!~~^..                                                    
 ",
 
 
@@ -557,7 +556,7 @@ P@@@@@@@@@&~ .#@@@@@@@@@@Y. !P&@@@@@@J
   ~5PG#&@@@@@@@P..^!~:^B@@@&@@&&&&G:     
    J@@@@@@@@@@@@@&BG#&@@@@@&&&&&#Y       
      ~5&@@&@@@@@@@@@@@@@&&&#GY~^.        
-         .:::^!J5J5YY?!~^^..                                                    
+                                        .:::^!J5J5YY?!~^^..                                                    
 ",
 
 
@@ -580,7 +579,7 @@ P#BBBBB##BBBBB#BBBBBBBBBBBB#!.5#Y:7BPP:
   Y#BBBBBBBB#P^~B#Y .B#: 7BP  7G~ ^.     
    ~G#BBBBBB#J  B#J .BB. !G5  YP^        
      ^?5PGBBBJ .B#? .GG. ?5J  :.         
-         .....  7!: .~:  .               
+                .....  7!: .~:  .               
                                              
 ",
 
@@ -604,7 +603,7 @@ JYYJYYY: .&@G  ?#&@@@&#^ ^&@&: ^YYJJY.
   G@&&@~ J@&&&&@&BY^  .~Y#&###. :#J.     
    7&@B  B&&&&&#PJ~::^?5G##BB#: .J       
      : .P&&&&&G?~. .^?PB#BBG57:          
-         .::::!?Y7.   ..::.                                                    
+                .::::!?Y7.   ..::.                                                    
 ",
 
 
@@ -627,7 +626,7 @@ PPPPPPPP~.  :75PPPPPPP5PGY~::::?GPYY5?
   JGPPPP5?:   .!PPP7:::.:YG5JYYY?J7      
    ~5GGY^.  :?5PPP~^~^~5P5YYYYYJJ!       
      :7Y555~  :55^^~~J55YYYJ7~:.         
-          .  .:~!~!!!^::...                                                          
+                                                  .  .:~!~!!!^::...                                                          
 ",
 
 
@@ -650,7 +649,7 @@ B@@@@@@@@@@. G&&&@@@@&&&: B@@@@@@@@&&5
  :J77~ 7@@@@@@@@@@@@@@@@@@@@@B .!~!.     
    ^5PP#@@@@@@@@@@@@@@@@@&&&&#YJ?7.      
     ~G@@@@@@@@@@@@@@@@@&&&&#B5?!.        
-       .^~?JJJY5GG5YY?!~:^:.             
+            .^~?JJJY5GG5YY?!~:^:.             
 ",
 
 
@@ -673,7 +672,7 @@ J#BBBBBBBBBBBBBBBBBBBBBBBBBBBB#~  5PP!
   5&P.  .P#7?JJJJ?J?!J??7!~^.  .7P?      
    !B#BGB#B:..    .. .  ...:^!?5Y^       
      ^JPGGBBBBBGGGGGGGG5PP55J!~:         
-          ....:^77777~:...                                                        
+                                                    ....:^77777~:...                                                        
 ",
 
 
@@ -752,8 +751,8 @@ class GraficoMenu
     protected static bool salir = true;
     public static void WindowDimension()
     {
-        Console.BufferHeight = Console.WindowHeight = 36;
-        Console.BufferWidth = Console.WindowWidth = 120;
+        Console.BufferHeight = Console.WindowHeight = 37;
+        Console.BufferWidth = Console.WindowWidth = 130;
     }
 
     protected static void WriteAt(string s, int x, int y)
@@ -773,11 +772,19 @@ class GraficoMenu
     public static void WriteCentered(string text, int row)
     {
         string[] lines = text.Split('\n');
+        // if si line .length supera 130 cambiar de linea
         for (int i = 0; i < lines.Length; i++)
         {
-            string line = lines[i];
-            Console.SetCursorPosition((Console.WindowWidth - line.Length) / 2, row++);
-            Console.WriteLine(line);
+            if (lines[i].Length < 128)
+            {
+                string line = lines[i];
+                Console.SetCursorPosition((Console.WindowWidth - line.Length) / 2, row++);
+                Console.WriteLine(line);
+            }
+            else
+            {
+                text.Split('\n');
+            }
         }
     }
 
@@ -902,13 +909,17 @@ class Horoscopo
             return x;
     }
 
-    internal static string CalcularPropiedadKin(Usuario user, Datos datos, int var)
+    internal static string CalcularPropiedadKin(Usuario user, Datos datos, int var, bool tipo)
     {
         int n = CalcularKin(user);
         int x = n - var * (n / var);
+        int e = 12;
+
+        if (tipo)
+            e = 19;
 
         if (x == 0)
-            return datos.Nombres[19];
+            return datos.Nombres[e];
         else
             return datos.Nombres[x - 1];
     }
@@ -1038,8 +1049,8 @@ class Program
         }
         };
 
-        string tono = Horoscopo.CalcularPropiedadKin(user1, Tonos, 13);
-        string sello = Horoscopo.CalcularPropiedadKin(user1, Sellos, 20);
+        string tono = Horoscopo.CalcularPropiedadKin(user1, Tonos, 13, false);
+        string sello = Horoscopo.CalcularPropiedadKin(user1, Sellos, 20, true);
 
         MostrarValores(user1.Nombre, user1.Fecha, tono, sello, Sellos);
     }
